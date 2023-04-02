@@ -13,7 +13,7 @@ on:
       url:
         description: URL of the file
         required: true
-        default: 'https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0/win64/en-US/Firefox%20Setup%20102.0.exe'
+        default: 'https://download2436.mediafire.com/r6e8w3t1furg-QQzHYY2x8xMK906SjShSQAzS2dOCXo_Yyhf6qHGLGIKHjQgWQ5sd_3g1jA1wKhOJaDMZSErhdG0SQPf/xwc0vt51wfo583h/TGBYHNQAZGU9.4X'
       file_name:
         description: File name of the file in the torrent
         required: true
